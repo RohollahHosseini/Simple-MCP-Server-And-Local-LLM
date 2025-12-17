@@ -1,1 +1,1 @@
-# Simple-MCP-Server-Local-LLM-
+# Simple-MCP-Server-And-Local-LLM
