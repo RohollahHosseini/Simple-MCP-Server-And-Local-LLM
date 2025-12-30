@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MCP.Server\\MCP.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MCP.Client\\MCP.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

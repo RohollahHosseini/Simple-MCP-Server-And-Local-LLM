@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/MCP Server Prompt With Ollama/.vs
+/src/MCP Server Prompt With Ollama/MCP.Client/bin/Debug/net9.0
+/src/MCP Server Prompt With Ollama/MCP.Client/obj
+/src/MCP Server Prompt With Ollama/MCP.Server/bin/Debug/net9.0
+/src/MCP Server Prompt With Ollama/MCP.Server/obj
+/src/MCP Server Prompt With Ollama(TranlateProject)/.vs
+/src/MCP Server Prompt With Ollama(TranlateProject)/MCP.Client/bin/Debug/net9.0
+/src/MCP Server Prompt With Ollama(TranlateProject)/MCP.Client/obj
+/src/MCP Server Prompt With Ollama(TranlateProject)/MCP.Server/bin/Debug/net9.0
+/src/MCP Server Prompt With Ollama(TranlateProject)/MCP.Server/obj
